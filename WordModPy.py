@@ -8,6 +8,7 @@ TODO:
 -add copy/paste functions
 -add "help _" commands to explain what each function does to the user
 -flesh out passStrengthTest (possibly include most common passwords)
+-add bullet point adder (and think of other formatting functions)
 
 '''
 from functools import reduce
