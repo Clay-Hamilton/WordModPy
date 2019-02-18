@@ -13,7 +13,7 @@ TODO:
 from functools import reduce
 import re
 
-#Isogram: checks if a word is an isogram (a word only containing each letter once):
+#Isogram: checks if a word is an isogram (a word only containing each letter once)
 def isIsogram(teststring):
     isIso = True
     for i in range(len(teststring)):
